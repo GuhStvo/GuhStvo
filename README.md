@@ -1,55 +1,49 @@
-<!-- Banner animado no topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<h1 align="center">Gustavo Almeida</h1>
+<p align="center">Desenvolvedor Front-end em formação • Estagiário na Leroy Merlin Brasil</p>
 
-<h1 align="center">Fala aí 👋, eu sou o Gustavo!</h1>
-<p align="center">🧑‍💻 Desenvolvedor em formação | 🚀 Explorando o mundo da tecnologia</p>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=F77DFF&width=435&lines=React+Native+%7C+Firebase+%7C+PHP+%7C+Figma;Sempre+em+evolu%C3%A7%C3%A3o+constante..." />
+## 👨‍💻 Sobre mim
+
+Sou estagiário na **Leroy Merlin Brasil**, atuando na área de **Inovação**.  
+Já desenvolvi alguns sites e entregas internas para a equipe, incluindo o serviço piloto de **Decoração Online, Leroy Merlin Decora** (antigo *Leroy Merlin Projeta*), onde pude aplicar e fortalecer minhas habilidades em front-end.
+
+É no **front-end** que realmente me encontro: criar interfaces claras, funcionais e acessíveis é o que me motiva a evoluir como desenvolvedor.
+
+Tenho formação técnica em desenvolvimento web full stack, o que me deu uma base sólida em HTML, CSS, JavaScript, mobile, backend e banco de dados, conhecimentos que complementam bem o caminho que estou seguindo.
+
+Atualmente estou ampliando meus conhecimentos na área de programação por meio da faculdade de **Análise e Desenvolvimento de Sistemas**.
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,php,nodejs,firebase,mysql,html,css,figma,git,flutter" />
 </p>
 
 ---
 
-### 🧠 Sobre mim
+## 📈 Estatísticas
 
-- 💡 Curioso e criativo, gosto de pensar soluções e trazer para o mundo real com código.
-- 🎯 Em busca de melhorar um pouco a cada commit.
-- 🧩 Viciado em UX, APIs, animações e cafés fora de hora.
-- 🛠️ Já quebrei a cara tentando entender um erro... e aprendi mais do que imaginava.
-
----
-
-### 🚀 Tecnologias já usadas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,php,firebase,js,ts,html,css,mysql,figma,nodejs,git" />
-</p>
+<div align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuhStvo&show_icons=true&theme=transparent&hide_title=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhStvo&layout=compact&theme=transparent"/>
+</div>
 
 ---
 
-### 📊 Linguagens mais usadas
+## 🌐 Contato
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GuhStvo&show_icons=true&theme=radical&layout=compact" />
-</p>
-
----
-
-### 📫 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-almeida-04796a1b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="gustavoalmeida.201632@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
- <a href="https://www.instagram.com/silvagustt_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</p>
+- **LinkedIn:** www.linkedin.com/in/gustavoo-almeida
+- **Email:** gustavoalmeida.201632@gmail.com  
+- **Instagram:** @silvagustt_  
 
 ---
 
-<!-- Footer animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ddd&height=120&section=footer"/>
+## 🎯 Hobbies
+
+- 🌄 Trilhas  
+- 🌳 Parques  
+- 🏋️‍♂️ Academia  
+- 🥊 Muay Thai  
